@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "Region": "Пiдкамiнь",
+    "Obl": "01.02.1990",
+    "Oil": "655",
+    "date": "7",
+    "numFuel": "0,64",
+    "numDizFuel": "0,1",
+    "numOil": "0,9"
+  },
+  {
+    "id": 2,
+    "Region": "Пiдкамiнь",
+    "Obl": "04.05.1991",
+    "Oil": "147",
+    "date": "7",
+    "numFuel": "1,16",
+    "numDizFuel": "0,2",
+    "numOil": "0,1"
+  },
+  {
+    "id": 3,
+    "Region": "Пiдкамiнь",
+    "Obl": "04.05.1992",
+    "Oil": "86",
+    "date": "7",
+    "numFuel": "1,16",
+    "numDizFuel": "0,0",
+    "numOil": "0,1"
+  },
+  {
+    "id": 4,
+    "Region": "Насташино",
+    "Obl": "04.05.1992",
+    "Oil": "44",
+    "date": "7",
+    "numFuel": "1,16",
+    "numDizFuel": "0,2",
+    "numOil": "0,9"
+  },
+  {
+    "id": 5,
+    "Region": "Куропатники",
+    "Obl": "01.02.1992",
+    "Oil": "120",
+    "date": "7",
+    "numFuel": "1,84",
+    "numDizFuel": "0,0",
+    "numOil": "0,7"
+  }
+]
